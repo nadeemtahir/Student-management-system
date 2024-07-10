@@ -1,13 +1,14 @@
 {
-  "name": "student-management-system",
+  "name": "manahil786-student-management-system",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is student management system.",
   "main": "index.js",
   "type": "module",
+  "bin": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "\"Manahil Nadeem\"",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.20"
